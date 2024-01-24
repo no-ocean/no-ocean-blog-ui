@@ -5,8 +5,8 @@ Developed using React.js
 ### Used Libs
 - redux - for state management
 - axios - for making requests to the api
-- react-simplemde-editor - for create and editing posts
-- react-markdown - for convert markdown to html
+- react-simplemde-editor - for creating and editing posts
+- react-markdown - for converting markdown to html
 
 ### Useful commands
 
@@ -30,13 +30,18 @@ $ npm run build
 - make comments
 - make article sorting
 - make filtering by tags
+- add styling for blockquotes and etc.
+- add multi-language
+- add user profile with editing
+- add pagination with lazy loading
 
-### DEV mode
+### Dev mode
 In the dev mode runs at localhost:3000
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### LIVE
+### Live
 Blog is available at this [link](https://no-ocean-blog-ui.vercel.app/)
+
 
 > [!CAUTION] 
 > **Don't use your real email and password for registration**:   
