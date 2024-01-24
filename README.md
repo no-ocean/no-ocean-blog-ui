@@ -38,7 +38,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### LIVE
 Blog is available at this [link](https://no-ocean-blog-ui.vercel.app/)
 
-> :warning: **Don't use your real email and password for registration**: 
+> [!CAUTION] 
+> **Don't use your real email and password for registration**:   
 > This is a demo app with some vulnerabilities which I'll fix soon
 
 
