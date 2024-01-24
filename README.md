@@ -1,4 +1,4 @@
-# no-ocean-blog-api
+# no-ocean-blog-ui
 This application is a frontend part of full-stack blog application. 
 Developed using React.js
 
